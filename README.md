@@ -52,5 +52,5 @@ Trend analysis showing fluctuations in sales and profit over time
 
 🏆 Best-selling products include office machines, copiers, and accessories
 
-
+🚀 Key Takeaway
 A balanced strategy focusing on high-margin categories (Furniture) and high-volume categories (Technology & Office Supplies) can maximize growth and profitability.
